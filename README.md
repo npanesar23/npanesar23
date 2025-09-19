@@ -8,4 +8,4 @@ Building intelligent applications at the intersection of software development an
 
 ---
 
-📬 Please feel free to contact me at [npanesar@uwaterloo.ca](mailto:npanesar@uwaterloo.ca) or through my [Linkedin Profile](https://linkedin.com/in/nitishpanesar).
+📬 Please feel free to contact me at [npanesar@uwaterloo.ca](mailto:npanesar@uwaterloo.ca) or through my [Linkedin Profile](https://linkedin.com/in/npanesar).
