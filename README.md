@@ -2,9 +2,9 @@
 
 **Honours Geomatics @ UWaterloo | Geospatial & Software Engineer**
   
-Transforming open data into intelligent geospatial solutions.
+Building intelligent applications at the intersection of web development and geospatial technology.
 
-🔍 I specialize in building scalable tools at the intersection of **GIS**, **remote sensing**, and **software engineering**. My work automates geospatial workflows, processes satellite imagery, and visualizes spatial insights for decision-makers.
+🔍 I develop scalable solutions using **JS/TS**, **Python**, and **C++** with **React**, **Next.js**, **Tailwind**, and **Django**. My work occasionally leverages **AWS** infrastructure and geospatial tools like **ArcGIS Pro** and **QGIS** to create impactful applications.
 
 ---
 
