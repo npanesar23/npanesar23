@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Nitish Panesar
 
-**Honours Geomatics @ UWaterloo | Software Engineer**
-  
-Building intelligent applications at the intersection of software development and geospatial technology.
+**Honours Geomatics Co-op and Computing @ UWaterloo**
 
-🔍 I develop scalable solutions using **JS/TS**, **Python**, and **C++** with **React**, **Next.js**, **Tailwind**, and **Django**. My work occasionally leverages **AWS** infrastructure and geospatial tools like **ArcGIS Pro** and **QGIS** to create impactful applications.
+Current: Growth & GTM @ Tinybox Systems (Spring '26)
+
+Interested in sales & entrepreneurship - running a ~~thriving~~ [advertising agency](https://www.meridianadvertisinggroup.com)
 
 ---
 
