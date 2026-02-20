@@ -4,7 +4,7 @@
   
 Currently leading growth @ Tinybox Systems (S26)
 
-Visit my website at [nitishpanesar.com](https://nitishpanesar.com)
+Visit my personal website at [nitishpanesar.com](https://nitishpanesar.com)
 
 ---
 
