@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nitish Panesar
 
-**Honours Geomatics + Computing @ UWaterloo**
+**Geospatial Data Science + Computing @ UWaterloo**
   
 Currently leading growth @ Tinybox Systems (S26)
 
