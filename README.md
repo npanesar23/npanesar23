@@ -2,9 +2,7 @@
 
 **Geospatial Data Science + Computing @ UWaterloo**
   
-Currently leading growth @ Tinybox Systems (S26)
-
-Visit my personal website at [nitishpanesar.com](https://nitishpanesar.com)
+Currently growth @ Tinybox Systems (S26)
 
 ---
 
